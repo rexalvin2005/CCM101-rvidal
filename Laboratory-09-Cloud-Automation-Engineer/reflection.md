@@ -1,0 +1,11 @@
+# Mission Reflection
+
+This laboratory helped me understand why automation is important when managing hundreds of cloud servers. Performing the same task manually on every server would take a lot of time and could lead to mistakes. With a Bash script and a scheduled cron job, repetitive tasks such as backups can run automatically and consistently without requiring someone to start them each time.
+
+However, automation also has potential dangers. If a script contains a destructive typo and runs on 1,000 servers, it could damage or delete important data across the entire environment. This is why scripts should be reviewed, tested in a safe environment, and protected with appropriate permissions before being used in production. Backup verification and recovery plans are also important.
+
+Writing a Bash script was different from creating a Docker Compose YAML file in Mission 6. Bash scripts contain commands that execute one after another, allowing the script to perform actions such as creating directories and compressing files. Docker Compose uses YAML to describe services, images, ports, and configuration settings that Docker uses to deploy an application. Both tools help automate work, but they solve different problems.
+
+From Laboratory 1 to Laboratory 9, my understanding of cloud computing has expanded from basic cloud concepts to practical infrastructure, containers, storage, deployment, monitoring, security, and automation. I have learned that cloud engineering is not only about making an application run. It also involves keeping systems reliable, secure, observable, and easy to maintain.
+
+The role I enjoyed most was Cloud Operations Engineer because I learned how to monitor system resources, inspect application logs, and check container performance. These tasks helped me understand how engineers identify and solve problems in real environments. I also found Cloud Automation Engineer interesting because scripts can reduce repetitive work and make operations more efficient. Overall, these missions have made me more confident using Linux and organizing my technical work in GitHub. I can now see how different cloud engineering skills work together to support reliable services.
