@@ -1,0 +1,11 @@
+# Final Reflection: My Journey from Mission 1 to Mission 10
+
+My journey from Mission 1 to Mission 10 in Cloud Computing has been a great learning experience. At the beginning, I started as a Junior Trainee, learning basic Linux commands and understanding the fundamentals of cloud computing. As I completed each mission, I gained more knowledge and confidence in working with different cloud technologies and tools.
+
+Throughout the activities, I learned about cloud infrastructure, different cloud service providers such as AWS, Microsoft Azure, and Google Cloud, and the differences between virtualization and containerization. I also gained experience with Docker, Docker Compose, storage management, and deploying multi-tier applications. These activities helped me understand how different components work together to build a functional cloud environment.
+
+I also learned the importance of system monitoring, security, and automation. Configuring firewalls, managing access permissions, monitoring system resources, and creating Bash scripts helped me understand how to maintain and protect a server. One of the most important lessons I learned was that automation and regular backups are necessary to keep systems reliable and reduce manual work.
+
+For my final mission as an Enterprise Cloud Architect, I combined the knowledge and skills I gained from the previous missions to design and deploy my own cloud infrastructure using VirtualBox, Ubuntu Server, Docker, and a multi-tier application with persistent storage. This final activity challenged me because I had to solve problems independently, configure the environment, and document the deployment process.
+
+Overall, Missions 1 to 10 taught me that cloud computing is not only about deploying applications but also about planning, securing, monitoring, and maintaining infrastructure. There were challenges and errors along the way, but they helped me improve my troubleshooting and problem-solving skills. As a BSIT student, I believe the knowledge and experience I gained from this course will be useful in my future career in Information Technology. I am proud of how far I have progressed, from a beginner learning Linux commands to completing my final mission as an Enterprise Cloud Architect.
