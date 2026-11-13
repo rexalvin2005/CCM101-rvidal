@@ -33,7 +33,7 @@ Throughout these activities, I explore cloud infrastructure, multi-cloud platfor
 | 07 | [📊 Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer) | Linux Monitoring • Container Observability |
 | 08 | [🔐 Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer) | Security Auditing • UFW • Firewall |
 | 09 | [🤖 Cloud Automation Engineer](./Laboratory-09-Cloud-Automation-Engineer) | Bash Scripting • Cron • Automated Backups |
-| 10 | [🏢 Enterprise Cloud Architect](./Laboratory-10-Enterprise-Cloud-Architecture) | VirtualBox • Ubuntu Server • Docker • WordPress • MariaDB • Automation |
+| 10 | [🏢 Enterprise Cloud Architect](./Laboratory-10-Enterprise-Cloud-Architect) | VirtualBox • Ubuntu Server • Docker • WordPress • MariaDB • Automation |
 
 ## 🧰 Technologies & Tools
 
