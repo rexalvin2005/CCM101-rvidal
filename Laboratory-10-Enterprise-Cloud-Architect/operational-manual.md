@@ -1,5 +1,5 @@
 # 🛠️ Operational Manual & Maintenance Guide
-## Laboratory 10: Enterprise Cloud Architecture Cluster
+## Laboratory 10: Enterprise Cloud Architect
 
 **Project Workspace:** `rexalvin2005/CCM101-rvidal`  
 **Deployment Path:** `~/CCM101-rvidal/Laboratory-10-Enterprise-Cloud-Architect`  
