@@ -64,8 +64,12 @@ The architecture establishes an isolated internal network space (`enterprise_net
 
 ```text
 CCM101-rvidal/
-├── Laboratory-10-Enterprise-Cloud-Architect/
-│   ├── docker-compose.yml       # Multi-service orchestration configuration
-│   ├── .env                     # Declarative secrets & database environment variables
-│   └── backup/                  # Programmatic system backup routines & cron scripts
-└── README.md                    # Detailed infrastructure documentation & manual
+└── Laboratory-10-Enterprise-Cloud-Architect/
+    ├── .env                       # Declarative secrets & database environment variables
+    ├── README.md                  # Detailed infrastructure overview & deployment manual
+    ├── architecture-diagram.png   # Visual topology & network isolation blueprint
+    ├── automation-script.sh       # Automated provisioning & cluster initialization routine
+    ├── backup-wordpress.sh        # Programmatic database & media backup script
+    ├── docker-compose.yml         # Multi-service container orchestration configuration
+    ├── final-reflection.md        # Architectural insights & post-deployment evaluation
+    └── operational-manual.md      # Step-by-step system administration & recovery guide
